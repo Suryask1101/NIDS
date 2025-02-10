@@ -1,0 +1,54 @@
+2025-02-10 17:09:06,572 - Prediction: 0, Probabilities: [0.95 0.   0.   0.05 0.  ]
+2025-02-10 17:10:24,977 - Prediction: Benign, Probabilities: [0.92562346 0.         0.00999977 0.0538835  0.01049328]
+2025-02-10 17:10:33,786 - Prediction: Benign, Probabilities: [0.91562323 0.         0.         0.0738835  0.01049328]
+2025-02-10 17:15:00,081 - Prediction: Benign, Probabilities: [0.94000023 0.         0.00999977 0.05       0.        ]
+2025-02-10 17:19:20,711 - Prediction: Benign, Probabilities: [9.40176016e-01 1.05454894e-05 9.99977350e-03 4.00000000e-02
+ 9.81366460e-03]
+2025-02-10 17:27:38,093 - Prediction: Benign, Probabilities: [0.93018656 0.         0.00999977 0.04       0.01981366]
+2025-02-10 17:28:01,173 - Prediction: Benign, Probabilities: [9.25437120e-01 1.00000000e-02 9.99977350e-03 5.38834951e-02
+ 6.79611650e-04]
+2025-02-10 17:32:45,170 - Prediction: Benign, Probabilities: [9.35436893e-01 0.00000000e+00 0.00000000e+00 6.38834951e-02
+ 6.79611650e-04]
+2025-02-10 17:32:52,332 - Prediction: Benign, Probabilities: [0.91562346 0.         0.00999977 0.0538835  0.02049328]
+2025-02-10 17:34:02,419 - Prediction: Benign, Probabilities: [9.49989681e-01 1.05454894e-05 9.99977350e-03 4.00000000e-02
+ 0.00000000e+00]
+2025-02-10 17:34:02,492 - Prediction: Benign, Probabilities: [0.95 0.   0.   0.05 0.  ]
+2025-02-10 17:34:11,215 - Prediction: Benign, Probabilities: [9.59989455e-01 1.05454894e-05 0.00000000e+00 4.00000000e-02
+ 0.00000000e+00]
+2025-02-10 17:34:11,273 - Prediction: Benign, Probabilities: [0.90562434 0.         0.01999889 0.0538835  0.02049328]
+2025-02-10 17:35:53,219 - Prediction: Benign, Probabilities: [8.95573635e-01 5.07031474e-05 1.99988901e-02 6.38834951e-02
+ 2.04932762e-02]
+2025-02-10 17:36:08,488 - Prediction: Benign, Probabilities: [9.49989681e-01 1.05454894e-05 9.99977350e-03 4.00000000e-02
+ 0.00000000e+00]
+2025-02-10 17:38:23,479 - Prediction: Benign - Normal network traffic with no malicious activity., Probabilities: [0.96 0.   0.   0.04 0.  ]
+2025-02-10 17:38:58,461 - Prediction: Benign - Normal network traffic with no malicious activity., Probabilities: [0.93018656 0.         0.00999977 0.04       0.01981366]
+2025-02-10 17:43:27,678 - Prediction: Benign, Probabilities: [9.45436893e-01 0.00000000e+00 0.00000000e+00 5.38834951e-02
+ 6.79611650e-04]
+2025-02-10 17:50:28,064 - Prediction: Benign - Normal network traffic with no malicious activity., Probabilities: [0.92543712 0.         0.00999977 0.0538835  0.01067961]
+2025-02-10 18:50:12,549 - Prediction: Benign - Normal network traffic with no malicious activity., Probabilities: [0.95 0.   0.   0.05 0.  ]
+2025-02-10 18:51:20,024 - Prediction: BruteForce - Repeated login attempts to guess passwords or credentials., Probabilities: [9.35384938e-01 5.21821632e-05 9.99977350e-03 5.38834951e-02
+ 6.79611650e-04]
+2025-02-10 18:53:23,419 - Prediction: BruteForce - Repeated login attempts to guess passwords or credentials., Probabilities: [0.95 0.   0.   0.05 0.  ]
+2025-02-10 18:53:30,266 - Prediction: BruteForce - Repeated login attempts to guess passwords or credentials., Probabilities: [9.25437120e-01 1.00000000e-02 9.99977350e-03 5.38834951e-02
+ 6.79611650e-04]
+2025-02-10 18:54:03,588 - Prediction: DoS - Denial of Service attack from a single source, overloading the network or system., Probabilities: [0.96 0.   0.   0.04 0.  ]
+2025-02-10 18:54:26,704 - Prediction: DDoS - Distributed Denial of Service attack, overwhelming the target with excessive traffic., Probabilities: [9.59989455e-01 1.05454894e-05 0.00000000e+00 4.00000000e-02
+ 0.00000000e+00]
+2025-02-10 18:54:50,955 - Prediction: Benign - Normal network traffic with no malicious activity., Probabilities: [0.92000111 0.01       0.01999889 0.04       0.01      ]
+2025-02-10 18:55:12,649 - Prediction: BruteForce - Repeated login attempts to guess passwords or credentials., Probabilities: [0.93000023 0.01       0.00999977 0.05       0.        ]
+2025-02-10 18:57:22,564 - Prediction: BruteForce - Repeated login attempts to guess passwords or credentials., Probabilities: [9.49886796e-01 1.13430800e-04 9.99977350e-03 4.00000000e-02
+ 0.00000000e+00]
+2025-02-10 18:57:48,921 - Prediction: DoS - Denial of Service attack from a single source, overloading the network or system., Probabilities: [9.35436893e-01 0.00000000e+00 0.00000000e+00 6.38834951e-02
+ 6.79611650e-04]
+2025-02-10 18:58:19,315 - Prediction: DDoS - Distributed Denial of Service attack, overwhelming the target with excessive traffic., Probabilities: [9.05572752e-01 5.07031474e-05 9.99977350e-03 6.38834951e-02
+ 2.04932762e-02]
+2025-02-10 18:59:04,504 - Prediction: BruteForce - Repeated login attempts to guess passwords or credentials., Probabilities: [0.95000023 0.         0.00999977 0.04       0.        ]
+2025-02-10 18:59:51,933 - Prediction: DoS - Denial of Service attack from a single source, overloading the network or system., Probabilities: [0.92000111 0.01       0.01999889 0.04       0.01      ]
+2025-02-10 19:01:04,748 - Prediction: BruteForce - Repeated login attempts to guess passwords or credentials., Probabilities: [0.93998968 0.01001055 0.00999977 0.04       0.        ]
+2025-02-10 19:04:00,088 - Prediction: BruteForce - Repeated login attempts to guess passwords or credentials., Probabilities: [0.92562346 0.         0.00999977 0.0538835  0.01049328]
+2025-02-10 19:07:34,656 - Prediction: BruteForce - Repeated login attempts to guess passwords or credentials., Probabilities: [9.25436893e-01 0.00000000e+00 0.00000000e+00 7.38834951e-02
+ 6.79611650e-04]
+2025-02-10 19:19:42,032 - Prediction: Benign - Normal network traffic with no malicious activity., Probabilities: [9.50175790e-01 1.05454894e-05 0.00000000e+00 4.00000000e-02
+ 9.81366460e-03]
+2025-02-10 19:20:36,960 - Prediction: Benign - Normal network traffic with no malicious activity., Probabilities: [0.8953873  0.0100507  0.01999889 0.0638835  0.01067961]
+2025-02-10 19:20:54,350 - Prediction: BruteForce - Repeated login attempts to guess passwords or credentials., Probabilities: [0.895438   0.01       0.01999889 0.0638835  0.01067961]
